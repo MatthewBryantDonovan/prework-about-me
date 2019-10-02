@@ -1,0 +1,27 @@
+body {
+    background: url("streetlight.png") top left no-repeat, url("ReBlBG.png") left top repeat;
+    background-size: 25%, 12.5%;
+}
+
+  h1, p, th, td, tr { color: lightblue; text-shadow: 2px 2px blue; font-weight: bolder; text-align: center}
+
+  a, h2 { color: lightblue; text-shadow: 2px 2px blue; font-weight: bolder}
+
+  th, td { font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif}
+
+  div {margin: auto}
+
+  .truecenter{
+      display: block;
+      margin: auto;
+  }
+
+  .txtcenter{
+    text-align: center;
+}
+
+  #punkborder { border: 25px ridge rgb(48, 3, 3)}
+
+  #greenborder { border: 25px ridge green}
+
+  #punkborder2 {width: 450px; height: 450px; border: 25px ridge rgb(48, 3, 3); padding: 25px}
